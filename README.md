@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zuhayer03/programming-journey/main/assets/cards/algoarena.svg" width="100%" alt="Java algorithms and DSA learning" />
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/zuhayer03/zuhayer03/main/assets/feature-algoarena.svg"/><img src="https://raw.githubusercontent.com/zuhayer03/zuhayer03/output/animated/algoarena.gif" width="100%" alt="Animated AlgoArena sorting-card illustration for Java foundations"/></picture>
 
 # JAVA // FOUNDATIONS
 
@@ -21,6 +21,12 @@ Rather than presenting an empty repository as a finished project, here are direc
 |:--|:--|:--|
 | [AlgoArena](https://github.com/zuhayer03/programming-journey/tree/main/projects/algoarena) | Bubble / Selection / Insertion Sort, correctness and timing experiments | In development |
 | [ThreatTrace](https://github.com/zuhayer03/programming-journey/tree/main/projects/threattrace) | Parsing sample authentication CSV logs and reporting repeated failed attempts | Prototype |
+
+### Sorting, visualized
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/zuhayer03/zuhayer03/output/demos/sorting.png"/><img src="https://raw.githubusercontent.com/zuhayer03/zuhayer03/output/demos/sorting.gif" width="100%" alt="Animated Bubble Sort swapping six sample values step by step"/></picture>
+
+<sub>Illustrative animation; the real Java source and tests are available in [AlgoArena](https://github.com/zuhayer03/programming-journey/tree/main/projects/algoarena).</sub>
 
 ## Concepts I'm working on
 
